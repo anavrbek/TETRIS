@@ -21,8 +21,8 @@ Expected outcomes | High mark
 Proposed activities | Power Point Presentation
 Estimative budget | 0 $
 Proposed partners | None
-Git repository link |  https://github.com/asaidillaeva/TETRIS
-Contact person | email: aliia.saidillaeva@iaau.edu.kg,  mobile: +996XXXXXXXXX
+Git repository link |  https://github.com/anavrbek/TETRIS/edit/master/TETRIS
+Contact person | email: Anvarbekanvarov999@gmail.com,  mobile: +996XXXXXXXXX
                               
 
 Software Features List  :
@@ -40,7 +40,7 @@ Software Features List  :
 
 This project is for course CS102.
 
-Author:Aliia Saidillaeva(I take code(only code) from github)
+Author:Anvarbek Anvarov
 
 Main.Tetris (derived from "tetramino" and "tennis") - developed by the inventor and 
 developer of the USSR programmer Alexey Pajitnov on June 6, 1984. 
