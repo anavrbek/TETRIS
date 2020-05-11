@@ -21,7 +21,7 @@ Expected outcomes | High mark
 Proposed activities | Power Point Presentation
 Estimative budget | 0 $
 Proposed partners | None
-Git repository link |  https://github.com/anavrbek/TETRIS/edit/master/TETRIS
+Git repository link |  https://github.com/anavrbek/TETRIS
 Contact person | email: Anvarbekanvarov999@gmail.com,  mobile: +996XXXXXXXXX
                               
 
